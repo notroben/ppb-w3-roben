@@ -1,4 +1,4 @@
-## Penugasan Minggu ke-2 Pemrograman Perangkat Bergerak E
+## Penugasan Minggu ke-3 Pemrograman Perangkat Bergerak E
 Ahmad Muqorrobin (5025231254)
 ----------
 Berikut adalah bagian-bagian kode untuk setiap widget yang ada di layar, dari atas ke bawah:
