@@ -1,4 +1,4 @@
-<img width="399" height="839" alt="image" src="https://github.com/user-attachments/assets/55f747a9-3839-4087-96d1-c4ebd9482656" />## Penugasan Minggu ke-2 Pemrograman Perangkat Bergerak E
+## Penugasan Minggu ke-2 Pemrograman Perangkat Bergerak E
 Ahmad Muqorrobin (5025231254)
 ----------
 Berikut adalah bagian-bagian kode untuk setiap widget yang ada di layar, dari atas ke bawah:
