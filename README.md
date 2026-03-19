@@ -31,7 +31,7 @@ Berikut adalah bagian-bagian kode untuk setiap widget yang ada di layar, dari at
             child: Text('gambar apa itu wok', style: TextStyle(fontFamily: 'Montserrat', fontWeight: FontWeight.w600, fontSize: 16)),
           ),```
 3. Widget Icon Kuning (Line 70)
-   Container(
+   ```Container(
             width: MediaQuery.of(context).size.width,
             color: Colors.yellow[200],
             padding: EdgeInsets.all(20.0),
@@ -45,7 +45,7 @@ Berikut adalah bagian-bagian kode untuk setiap widget yang ada di layar, dari at
                 Column(children: [Icon(Icons.people_alt_rounded), Text("People", style: TextStyle(fontFamily: 'Montserrat', fontWeight: FontWeight.w600, fontSize: 12))]),
               ],
             ),
-          ),
+          ),```
 4. Widget Counter (Line 85, Line 110)
    ```CounterCard(),```
    ```return Container(
